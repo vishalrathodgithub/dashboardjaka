@@ -1,0 +1,11 @@
+body {
+  background-image: url('https://guardianjobplacement.files.wordpress.com/2014/01/cropped-jobs.jpg');
+  background-repeat: no-repeat, repeat;
+  background-size:cover;
+}
+
+.jumbotron{
+   margin-top:100px;
+   background:#000033;
+   color:white;
+}

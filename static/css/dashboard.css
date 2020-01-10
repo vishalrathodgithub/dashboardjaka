@@ -1,0 +1,14 @@
+
+body {
+  background-image: url("https://guardianjobplacement.files.wordpress.com/2014/02/job-1.jpg?w=332");
+  background-repeat: no-repeat, repeat;
+  background-size:cover;
+}
+.jumbotron{
+   margin-top:100px;
+   background:#ccffcc;
+   color:white;
+}
+h1 {
+  color: #ff6600;
+}
